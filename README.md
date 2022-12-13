@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# TUGAS BESAR (WEB PROFILE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sebuah website yang berisi profil singkat mengenai anggota kelompok dari TrippleN. Website ini untuk memenuhi Tugas Besar TEFA Chapter 1 yang juga berfungsi sebagai platform dalam memberikan informasi terkait biodata anggota kelompok. 
 
-## Available Scripts
+## Konten :
+- Halaman utama 
+- Halaman deskripsi 
+- Halaman profil anggota
+- Halaman detail profil anggota
+- Halaman Kalkulator
 
-In the project directory, you can run:
+## Fitur :
+- Navbar 
+- Footer 
+- Carousel
+- Mode terang dan gelap kalkulator
+- Responsive web
 
-### `npm start`
+## Teknologi
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Teknologi serta bahasa yang kami gunakan dalam pengerjaan web profile sebagai berikut : 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### `npm test`
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### `npm run build`
+## Dokumentasi
+Halaman Home : 
+![home](https://user-images.githubusercontent.com/95407345/207311995-15ef7b07-1858-435b-b542-ebaacc803856.jpeg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Halaman Profil : 
+![profil](https://user-images.githubusercontent.com/95407345/207312059-0a85ea1e-1985-4d06-bbc2-464398a5f159.jpeg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Halaman Anggota : 
+![anggota](https://user-images.githubusercontent.com/95407345/207312141-66989c7a-508d-44c5-bc59-18f52b3c9f12.jpeg)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![anggota2](https://user-images.githubusercontent.com/95407345/207312157-a2681b80-a0ce-4202-80dc-9ab4c67a091f.jpeg)
 
-### `npm run eject`
+Halaman Detail Profil : 
+![detailprofil](https://user-images.githubusercontent.com/95407345/207312299-0f96f907-d80c-4c0d-8984-5aa36d11661a.jpeg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![detailprofil2](https://user-images.githubusercontent.com/95407345/207312399-e73b5c1b-0a26-4e76-a314-0bfa0b23ed73.jpeg)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![detailprofil3](https://user-images.githubusercontent.com/95407345/207312431-68646bcf-4db8-46c8-8d1c-fd416be01139.jpeg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Halaman Contact : 
+![contactnew](https://user-images.githubusercontent.com/95407345/207312628-a747db9e-df25-451a-9f9d-d27257405cf9.jpeg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Halaman Calculator : 
 
-## Learn More
+Mode Terang 
+![light mode](https://user-images.githubusercontent.com/95407345/207345555-51fa11d1-1510-4d7c-b3e8-72392ebb246d.jpeg)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Mode Gelap 
+![dark mode](https://user-images.githubusercontent.com/95407345/207345676-b7ed73cc-ff70-48e7-94e7-a359608e6124.jpeg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributors
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@nabilarishajuliana](https://github.com/nabilarishajuliana)
+- [@nylaam](https://github.com/nylaam)
+- [@novachan10](https://github.com/novachan10)
