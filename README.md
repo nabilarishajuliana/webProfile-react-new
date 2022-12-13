@@ -37,7 +37,7 @@ Halaman Contact :
 
 Halaman Calculator : 
 
-## Authors
+## Contributors
 
 - [@nabilarishajuliana](https://github.com/nabilarishajuliana)
 - [@nylaam](https://github.com/nylaam)
