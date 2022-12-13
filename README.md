@@ -28,14 +28,28 @@ Teknologi serta bahasa yang kami gunakan dalam pengerjaan web profile sebagai be
 
 ## Dokumentasi
 Halaman Home : 
+![home](https://user-images.githubusercontent.com/95407345/207311995-15ef7b07-1858-435b-b542-ebaacc803856.jpeg)
 
-Halaman Profile : 
+Halaman Profil : 
+![profil](https://user-images.githubusercontent.com/95407345/207312059-0a85ea1e-1985-4d06-bbc2-464398a5f159.jpeg)
 
-Halaman Team : 
+Halaman Anggota : 
+![anggota](https://user-images.githubusercontent.com/95407345/207312141-66989c7a-508d-44c5-bc59-18f52b3c9f12.jpeg)
+
+![anggota2](https://user-images.githubusercontent.com/95407345/207312157-a2681b80-a0ce-4202-80dc-9ab4c67a091f.jpeg)
+
+Halaman Detail Profil : 
+![detailprofil](https://user-images.githubusercontent.com/95407345/207312299-0f96f907-d80c-4c0d-8984-5aa36d11661a.jpeg)
+
+![detailprofil2](https://user-images.githubusercontent.com/95407345/207312399-e73b5c1b-0a26-4e76-a314-0bfa0b23ed73.jpeg)
+
+![detailprofil3](https://user-images.githubusercontent.com/95407345/207312431-68646bcf-4db8-46c8-8d1c-fd416be01139.jpeg)
 
 Halaman Contact : 
+![contactnew](https://user-images.githubusercontent.com/95407345/207312628-a747db9e-df25-451a-9f9d-d27257405cf9.jpeg)
 
 Halaman Calculator : 
+![calculator](https://user-images.githubusercontent.com/95407345/207312656-5931dbef-c74b-417e-8ee8-fe948deea8f2.jpeg)
 
 ## Contributors
 
