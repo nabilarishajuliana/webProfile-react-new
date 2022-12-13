@@ -49,7 +49,11 @@ Halaman Contact :
 ![contactnew](https://user-images.githubusercontent.com/95407345/207312628-a747db9e-df25-451a-9f9d-d27257405cf9.jpeg)
 
 Halaman Calculator : 
-![calculator](https://user-images.githubusercontent.com/95407345/207312656-5931dbef-c74b-417e-8ee8-fe948deea8f2.jpeg)
+Mode Terang 
+![light mode](https://user-images.githubusercontent.com/95407345/207345555-51fa11d1-1510-4d7c-b3e8-72392ebb246d.jpeg)
+
+Mode Gelap 
+![dark mode](https://user-images.githubusercontent.com/95407345/207345676-b7ed73cc-ff70-48e7-94e7-a359608e6124.jpeg)
 
 ## Contributors
 
