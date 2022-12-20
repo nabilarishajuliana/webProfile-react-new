@@ -57,13 +57,17 @@ Halaman Contact :
 Halaman Calculator : 
 
 Mode Terang 
-![light mode](https://user-images.githubusercontent.com/95407345/207345555-51fa11d1-1510-4d7c-b3e8-72392ebb246d.jpeg)
+![light mode](https://user-images.githubusercontent.com/95407345/208666409-939fd853-17f6-44ea-ae31-77ef4c90fa18.jpg)
 
 Mode Gelap 
-![dark mode](https://user-images.githubusercontent.com/95407345/207345676-b7ed73cc-ff70-48e7-94e7-a359608e6124.jpeg)
+![dark mode]![dark](https://user-images.githubusercontent.com/95407345/208666485-547fc429-bc15-4158-a67e-866a8ef78d6b.jpg)
+
+## Vercel 
+https://profile-triplen.vercel.app/
 
 ## Contributors
 
 - [@nabilarishajuliana](https://github.com/nabilarishajuliana)
 - [@nylaam](https://github.com/nylaam)
 - [@novachan10](https://github.com/novachan10)
+
